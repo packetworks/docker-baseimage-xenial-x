@@ -1,6 +1,6 @@
-# docker-baseimage-xenial-x
+# resin-odroid-c1-debian
 
-This is a Docker base image based on xenial. It allows a user called *abc* to run X programs with video and audio from within a container.
+This is a Docker base image based on resin.io's Debian image for Odroid. It allows a user called *abc* to run X programs with video and audio from within a container.
 
 ## Prerequisites
 * X server installed on host OS (must be with a window manger)
