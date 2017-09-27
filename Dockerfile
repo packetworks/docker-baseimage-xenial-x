@@ -1,5 +1,5 @@
-FROM lsiobase/xenial
-MAINTAINER nicjo814
+FROM resin/odroid-c1-debian
+MAINTAINER packetworks.org
 
 # set env variables
 ENV DISPLAY=":0" \
